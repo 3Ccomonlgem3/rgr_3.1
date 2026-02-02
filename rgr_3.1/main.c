@@ -16,6 +16,7 @@ int main(void)
 	int lenghtR = 0;
 	int menu;
 	int menuI = 0;
+
 	printf("РГР, задание_3, вариант 14\n");
 	printf("------------------------------------------------------------\n");
 		do
